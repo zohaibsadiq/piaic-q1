@@ -9,3 +9,4 @@ var person_name: string = 'talha';
 
 console.log('Aslam o alaikum' ,person_name, ' will you attendent the next class?');
 
+
