@@ -5,8 +5,8 @@ would you like to learn some Python today?”
 
 */ 
 
-var person_name: string = 'talha';
+let personName: string = 'talha';
 
-console.log(`Hello ,${person_name}, ' will you attendent the next class?`);
+console.log(`Hello ,${personName}, ' will you attendent the next class?`);
 
 
